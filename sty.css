@@ -80,16 +80,16 @@ header{
 }
 
 header .user img{
-    height: 15rem;
+    height: 13rem;
     width: 13rem;
-    border-radius: 50%;
+    border-radius: 60%;
     object-fit: cover;
     border: .5rem solid;
 }
 
 header .user .nm{
     font-size:3rem;
-    color: rgb(247, 11, 207);;
+    color: rgb(27, 11, 247);;
 }
 
 header .user .jb{
@@ -98,7 +98,7 @@ header .user .jb{
 }
 
 header .nv{
-    width: 100%;
+    width:100%;
 }
 header .nv ul{
     list-style: none;
@@ -135,7 +135,7 @@ header .nv ul li a:hover{
 
 .Details .Row .det h3{
     font-size: 2rem;
-    color: rgb(185, 15, 129);
+    color: rgb(20, 2, 54);
     padding: 1rem 0;
     font-weight: normal;
 }
